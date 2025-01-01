@@ -1,5 +1,5 @@
 /*!****************************************************************************                                                                         **/
-/**   FILE         = CHANNELFLOW.F90                                        **/
+/**   FILE         = CHANNEL_FLOW.c                                        **/
 /**   AUTHOR       = CHANDAN KUMAR (CHANDANKR@IITKGP.AC.IN)                 **/
 /**   INSTITUTE    = INDIAN INSTITUTE OF TECHNOLOGY (IIT), KHARAGPUR        **/
 /*****************************************************************************/
